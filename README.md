@@ -1,5 +1,5 @@
 ### 👋 Hi there, 
-### i'am a Software Engineer at [@linyjayadev]
+### i'am a Software Engineer
 
 🧠 learning [nextjs][next], [typescript][typescript]    
 
