@@ -7,6 +7,13 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->
+
+
+
 [adobe]: https://adobe.com
 [react]: http://reactjs.org
 [firebase]: https://firebase.google.com
