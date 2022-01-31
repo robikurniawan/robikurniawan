@@ -1,7 +1,7 @@
 ### 👋 Hi there, 
 ### i'am a Software Engineer
 
-🧠 learning [nextjs][next], [typescript][typescript]    
+🧠 expert Laravel Developer, and now learning [nextjs][next], [typescript][typescript]    
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
@@ -22,4 +22,3 @@
 
 [instagram]: https://instagram.com/robikurnwn
 [linkedin]: https://linkedin.com/in/robikurniawan
-[@linyjayadev]: https://github.com/linyjayadev
