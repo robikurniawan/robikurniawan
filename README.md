@@ -1,7 +1,6 @@
 ### 👋 Hi there, 
-### i'am a Software Engineer
 
-🧠 expert Laravel Developer, and now learning [nextjs][next], [typescript][typescript]    
+🧠 Laravel Developer, and now learning [nextjs][next], [typescript][typescript]    
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
