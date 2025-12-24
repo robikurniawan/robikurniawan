@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Robi Kurniawan 👋</h1>
+<h1 align="center">Hi there, I'm Robi 👋</h1>
 
 <p align="center">
   <a href="https://robikurniawan.github.io"><img src="https://img.shields.io/badge/Website-robikurniawan.github.io-blue?style=flat-square&logo=google-chrome"></a>
@@ -19,8 +19,6 @@
 - 🌱 Currently diving deep into **Next.js** and **TypeScript**
 - 💼 Building modern web experiences with React ecosystem
 - 🎯 Focused on clean code, best practices, and continuous learning
-- 💬 Ask me about **Laravel, PHP, React, or web development**
-- 📫 Reach me at: **[Your Email]** or connect via social links above
 
 ---
 
@@ -61,26 +59,6 @@
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=robikurniawan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=robikurniawan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robikurniawan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robikurniawan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -108,9 +86,7 @@
 
 ---
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/robikurniawan">robikurniawan</a></i>
-</p>
+
 
 <!-- Links -->
 [website]: https://robikurniawan.github.io
