@@ -46,15 +46,17 @@
 
 ---
 
-### 📊 I Spent My Time On
+### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://wakatime.com/@robikurniawan">
-    <img src="https://wakatime.com/share/@robikurniawan/817b3b34-0ae3-4fb7-bded-31ca341a80cd.svg" width="600" alt="Wakatime Stats" />
+    <img src="https://wakatime.com/share/@robikurniawan/ce22bd44-21f8-40c7-ade3-7e8cdb0bfe52.svg" width="600">
   </a>
+
+  <img src="https://wakatime.com/share/@robikurniawan/175d613d-c32f-4447-a1c8-6587c0f942ba.svg" width="600" alt="Wakatime Stats" >
 </p>
 
 
