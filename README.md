@@ -2,8 +2,6 @@
 
 <p align="center">
   <a href="https://robikurniawan.github.io"><img src="https://img.shields.io/badge/Website-robikurniawan.github.io-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/robikurniawan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://instagram.com/robikurnwn"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="https://wakatime.com/@robikurniawan"><img src="https://wakatime.com/badge/user/13f64e42-3b64-4c03-a2e4-ebe5b6d98482.svg?style=flat-square"></a>
 </p>
 
@@ -48,7 +46,7 @@
 
 ---
 
-### 📊 This Week I Spent My Time On
+### 📊 I Spent My Time On
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -60,37 +58,12 @@
 </p>
 
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://robikurniawan.github.io">
-    <img src="https://img.shields.io/badge/Website-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/robikurniawan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/robikurnwn">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
----
-
-
-
-<!-- Links -->
-[website]: https://robikurniawan.github.io
-[instagram]: https://instagram.com/robikurnwn
 [linkedin]: https://linkedin.com/in/robikurniawan
 [next]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
