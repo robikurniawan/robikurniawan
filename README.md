@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Robi 👋</h1>
+<h1 align="">Hi there 👋</h1>
 
 <p align="center">
   <a href="https://robikurniawan.github.io"><img src="https://img.shields.io/badge/Website-robikurniawan.github.io-blue?style=flat-square&logo=google-chrome"></a>
